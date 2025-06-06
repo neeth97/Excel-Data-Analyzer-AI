@@ -1,7 +1,5 @@
 streamlit
-google-generativeai
+openai
+pandas
 python-dotenv
-langchain
-PyPDF2
-chromadb
-faiss-cpu
+openpyxl
